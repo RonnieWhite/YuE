@@ -21,3 +21,6 @@ runs/
 *.whl
 *.partial
 .DS_Store
+
+# Private lyrics/notes: keep personal text out of the fork
+my-private-*.txt
